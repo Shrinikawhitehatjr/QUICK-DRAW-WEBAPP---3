@@ -1,0 +1,10 @@
+.body {
+    background-color: rgba(226, 137, 43, 0.479);
+    font-size: 24px
+    margin-left: 2px
+}
+.span {
+    font-size: 18px;
+    float:right
+    margin-align: right
+}
